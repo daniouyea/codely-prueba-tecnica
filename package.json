@@ -1,5 +1,5 @@
 {
-  "name": "express-api-rest",
+  "name": "codely-prueba-tecnica",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "dev": "nodemon --inspect src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Dani Serch",
   "license": "ISC",
   "dependencies": {
     "csv-parse": "^5.0.4",
